@@ -1,6 +1,8 @@
+![Hackathon Templates](https://github.com/kera-cudmore/hackathon_templates/assets/92253071/7b12c759-161e-4f3c-9c1b-c22a92bea64c)
+
 # Hackathon Templates
 
-This repo houses the templates to allow fast set-up of a project for Code Institute hackathons.
+This repo contains templates to allow me to quickly set-up a project for Code Institute hackathons.
 
 ## Project Wiki
 
