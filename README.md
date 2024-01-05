@@ -7,6 +7,7 @@ This repo contains templates to allow me to quickly set-up a project for Code In
 ## Project Wiki
 
 * [Project Setup](wiki_docs/project_setup.md)
+* [Create an issue template](wiki_docs/create_an_issue_template.md)
 * [Branch Protection](wiki_docs/branch_protection.md)
 * [Create a PR Template](wiki_docs/create_pr_template.md)
 * [Setting up the Repository for Social Sharing](wiki_docs/repo_social_sharing.md)
