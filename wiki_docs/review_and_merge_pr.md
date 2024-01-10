@@ -14,6 +14,9 @@ As an added layer of security on the original repo, collaborators will be requir
 
     Once you have reviewed a file, you can collapse the file contents by selecting the viewed checkbox on the files header.
 
+    ![Screenshot 2024-01-08 at 4 37 07 pm](https://github.com/kera-cudmore/hackathon_templates/assets/92253071/d18cab67-b512-4de3-865d-5ec05b8586a8)
+
+
 4. Once you have reviewed the changes made, you're ready to start the review process by clicking the start review button (this may say review changes if you have already begun the review process).
 
 5. You will now be presented with a comment box to leave your feedback along with a choice of three radio buttons:
@@ -23,6 +26,8 @@ As an added layer of security on the original repo, collaborators will be requir
     * **Approve** - This will submit your feedback given in the comments section and approve the PR for merging.
 
     * **Request Changes** - This will submit your feedback given in the comments section on issues that require addressing before the code can be approved and merged.
+
+    ![Screenshot 2024-01-08 at 4 39 40 pm (1)](https://github.com/kera-cudmore/hackathon_templates/assets/92253071/6f887173-4133-47a5-a5de-97876cdecb2f)
 
 6. Once you have left your feedback and selected whether to comment, approve or request changes you can now submit the review by clicking the green submit review button.
 
